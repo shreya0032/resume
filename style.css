@@ -1,0 +1,44 @@
+body {
+    background-image:linear-gradient(to top left,rgba(199,102,86,255),rgba(199,102,86,255),rgba(204,109,91,255),rgba(234,149,128,255),rgba(216,217,219,255),rgba(222,223,225,255),rgba(252,252,252,255));
+    /* background-color: white ;
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+fieldset{
+    background-color: white;
+    padding:2%;
+    margin-top:5%;
+    margin-left:15%;
+    margin-right:15%;
+    margin-bottom:5%;
+    border: none;
+}
+
+div > ul > li{
+    font-size:1.3em;
+}
+
+#bold  ol li{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+p{
+    font-size:1.3em;
+}
+div > h2 {
+    text-align: center;
+    background-color: rgba(238,155,133,255);
+    border-radius: 5px;
+}
+table{
+    text-align: center;
+    font-size: 1.1em;
+}
+
+#size{
+    font-size:1.2em;
+}
+table th{
+    background-color:lightgray;
+}
